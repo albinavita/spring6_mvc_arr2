@@ -8,7 +8,7 @@
   <artifactId>spring6_mvc_app2</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>spring_mvc_app2 Maven Webapp</name>
+  <name>spring6_mvc_app2 Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -71,7 +71,7 @@
   </dependencies>
 
   <build>
-  <finalName>spring_mvc_app2</finalName>
+  <finalName>spring6_mvc_app2</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
